@@ -13,10 +13,6 @@ main {
 .post {
     margin-bottom: 48px;
 }
-
-.post:hover{
-    margin-bottom: 200px;
-}
 .post .user-info img {
     border-radius: 50%;
 }
